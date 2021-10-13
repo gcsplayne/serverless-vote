@@ -10,7 +10,7 @@ exports.handler = async (event) => {
   } else if (v === "c") {
     votesArray[2] += 1;
   } else if (v === "d") {
-    votesArray[1] += 1;
+    votesArray[3] += 1;
   } else if (v === "r") {
     votesArray[(0, 0, 0, 0)];
   }
